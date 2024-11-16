@@ -6,7 +6,7 @@ import Dashboard from "./Pages/Dashboard";
 import Navbar from "./Components/Navbar"; 
 import AddCar from "./Pages/AddCar";
 import CarDetail from "./Pages/CarDetails";
-import CarList from "./Components/Carlist";
+import CarList from "../Components/CarList.jsx";
 import UpdateButton from "./Components/UpdateButton";
 import ProtectedRoute from "./Components/ProtectedRoute";
 import { AuthProvider } from "./Components/AuthProvider"; // Import AuthProvider
