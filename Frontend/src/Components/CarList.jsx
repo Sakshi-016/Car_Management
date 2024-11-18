@@ -92,7 +92,7 @@ const CarList = () => {
                 <div className="flex justify-center items-center">
                   <button
                     onClick={() => handleViewDetails(car._id)}
-                    className="mt-4 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600"
+                    className="mt-4 px-4 py-2 bg-gray-700 text-white rounded-md hover:bg-gray-900"
                   >
                     View Details
                   </button>
